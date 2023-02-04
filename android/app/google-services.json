@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "877491921811",
+    "firebase_url": "https://anddumpfirebase1.firebaseio.com",
+    "project_id": "anddumpfirebase1",
+    "storage_bucket": "anddumpfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877491921811:android:caa24add043799ad37fe66",
+        "android_client_info": {
+          "package_name": "com.maulahjat.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877491921811-p34r33s9e6sdac5ipoek6hjiltevmi2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPXBE14sf2uzXKKBgfyCigtHKJmq500Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877491921811-p34r33s9e6sdac5ipoek6hjiltevmi2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877491921811:android:a495f911055afd7537fe66",
+        "android_client_info": {
+          "package_name": "com.umer.anddumpfireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877491921811-p34r33s9e6sdac5ipoek6hjiltevmi2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPXBE14sf2uzXKKBgfyCigtHKJmq500Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877491921811-p34r33s9e6sdac5ipoek6hjiltevmi2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877491921811:android:ee7651863490e35e37fe66",
+        "android_client_info": {
+          "package_name": "thanos.umer.andfirebaseesp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877491921811-p34r33s9e6sdac5ipoek6hjiltevmi2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPXBE14sf2uzXKKBgfyCigtHKJmq500Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877491921811-p34r33s9e6sdac5ipoek6hjiltevmi2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
